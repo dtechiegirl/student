@@ -1,2 +1,2 @@
 # student
-A simple function that stores students records and gets by their ID written with solidity
+A simple function that stores student records and gets them by their ID written with solidity
