@@ -12,3 +12,6 @@ A nonpayble functions does  allows someone to send ether to a contract and run c
 A constant datatype can never be changed after compilation.
 An Immutable datatype can be assigned an arbitrary value in the constructor of the contract or at the point of their declaration. They cannot be read during construction time and can only be assigned once.
 
+A write function allows you to writr to storage.
+A read function allows you to read from storage.
+
